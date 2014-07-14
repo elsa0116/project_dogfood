@@ -1,0 +1,78 @@
+		.dot_red
+		{
+			background:url(../images/icon_4.png) no-repeat  left  top;
+			overflow:hidden;
+			margin:0px 0px 0px 0px;
+		}
+		.dot_orange
+		{
+			background:url(../images/icon_3.png) no-repeat  left  top;
+			overflow:hidden;
+			margin:0px 0px 0px 0px;
+		}
+		.topic
+		{
+			line-height:30px; 
+			font-size:27px; 
+			font-weight:bold; 
+			padding:0px 5px;
+		}
+		.aboutus_title{
+			margin:20px 0px 5px 40px; 
+			font-size:20px;
+		}
+		.aboutus_content{
+			margin:10px 0px 20px 60px; 
+			width:800px; 
+			height:220px;
+			text-align: justify;
+		}
+		.container_outertop_square
+		{
+			float:left margin:20px 0px 5px 40px; 
+			font-size:18px; 
+			width:900px; 
+			height:80px;
+		}
+		.container_outerdown_square
+		{
+			float:left; 
+			margin:0px 0px 30px 0px;
+		}
+		.container_outerdownsquare_upper
+		{
+			width:900px;  
+			height:180px; 
+			margin:0px 0px 0px 30px;
+		}
+		.container_outerdownsquare_lower
+		{
+			width:900px;  
+			height:180px; 
+			margin:25px 0px 0px 30px;
+		}
+		.inner_left_square
+		{
+			float:left; 
+			margin:0px 10px 0px 20px; 
+			border:1px solid rgb(200,200,200); 
+			width:261px; 
+			height:180px;
+		}
+		.inner_square
+		{
+			float:left; 
+			margin:0px 10px 0px 10px; 
+			border:1px solid rgb(200,200,200); 
+			width:261px; 
+			height:180px;
+		}
+		.position{
+			padding:0px 0px 12px 15px;
+		}
+		.square0_link
+		{
+			text-decoration:none; 
+			color:rgb(29,32,136); 
+			font-weight:bold;
+		}

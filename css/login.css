@@ -1,0 +1,153 @@
+		.login_position
+		{
+			width:400px;
+			height:100px;
+			/*border:1px solid rgb(0,0,0);*/
+			margin:250px 0px 0px 300px;
+		}
+		 .top_flowchart
+		{
+			width:900px;
+			height:50px;
+			background-repeat:no-repeat;
+			margin:20px auto;
+		}
+		.step1
+		{
+			background-image:url(../images/step1.png);
+		}
+		.step2
+		{
+			background-image:url(../images/step2.png);
+		}
+
+		.step3
+		{
+			background-image:url(../images/step3.png);
+		}			
+		.step4
+		{
+			background-image:url(../images/step4.png);
+		}
+		.background
+		{
+			background-image:url(../images/login.png);
+			width:341px;
+			height:210px;
+			padding-top:60px;
+			padding-left:30px;
+			font-size:18px;
+		}
+		.word_spacing
+		{
+			text-align:center; 
+			word-spacing:30px; 
+			white-space:nowrap;
+		}
+		.light_gray
+		{
+			background-color:rgb(246,246,246);
+		}
+		.dark_gray
+		{
+			background-color:rgb(239,239,239);
+		}
+		.step2_input
+		{
+			margin:0px 0px 0px 8px;
+		}
+		.login_inputsquare
+		{
+			width:170px; 
+			height:25px;
+		}
+		.step4_content
+		{
+			width:600px;
+			height:240px;
+			margin:100px auto;
+			border:1px solid rgb(150,150,150);
+		}
+		.step4_content_topic
+		{
+			font-size:24px; 
+			font-weight:bold; 
+			margin:30px auto; 
+			width:400px; 
+			text-align:center; 
+			padding:20px 0px 0px 0px;
+		}
+		
+		.step1-2
+		{
+			width:900px;
+			height:356px;
+			border:2px solid #000000;
+			/*border:1px solid #900;*/
+			/*background-color:rgb(239,239,239);*/
+			margin:0px auto;
+			color:#000000;
+			overflow:scroll;
+	
+		}
+		.step1-3
+		{
+			width:900px;
+			height:100px;
+		
+			/*border:1px solid #900;*/
+			/*background-color:rgb(239,239,239);*/
+			color:#000000;
+			margin:0px auto;
+			
+		
+		}
+		
+
+		.step2-2
+		{
+			/* border:1px solid black; */
+			width:900px;
+			height:370px;
+			font-size:18px;
+		
+			/*border:1px solid #900;*/
+			/*background-color:rgb(239,239,239);*/
+			margin:0px auto;
+		
+		}
+		
+
+
+		
+		.step2-3
+		{
+			/* border:1px solid black; */
+			width:900px;
+			height:100px;
+		
+			/*border:1px solid #900;*/
+			/*background-color:rgb(239,239,239);*/
+			color:#000000;
+			margin:0px auto;
+			float:left;
+			
+		
+		}
+		
+
+		.step3-2
+		{
+			width:900px;
+			height:370px;
+			/*border:1px solid #900;*/
+			/*background-color:rgb(239,239,239);*/
+			margin:0px auto;
+		}
+		.step3-3
+		{
+			width:900px;
+			height:100px;
+			/*background-color:rgb(239,239,239);*/
+			margin:0px auto;
+		}

@@ -1,0 +1,21 @@
+	.news_topic
+	{
+		background-color:rgb(248,182,43);
+		width:900px; 
+		height:16px;
+		padding:7px 10px;
+	}
+	.news_toplink
+	{
+		margin:10px 0px 20px 0px; 
+		font-size:16px;
+	}
+	.news_toplink a
+	{
+		text-decoration:none; 
+		color:rgb(0,0,0);
+	}
+	.news_content
+	{
+		margin:20px 0px 20px 0px;
+	}
